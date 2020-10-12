@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Characters
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4026682275
+    locked: 0
+  - name: Shadows
+    uniqueID: 783934315
+    locked: 0
+  - name: Character Down
+    uniqueID: 1094613467
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background UI
+    uniqueID: 1046361773
+    locked: 0
+  - name: Character UI
+    uniqueID: 3241346387
+    locked: 0
